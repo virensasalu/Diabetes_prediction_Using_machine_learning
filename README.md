@@ -83,7 +83,7 @@ Tasks included:
 ## Installation  
 1. **Clone the repository**  
    ```bash
-   git clone 
+   git clone https://github.com/virensasalu/Diabetes_prediction_Using_machine_learning.git
 
    python3 -m venv venv
    source venv/bin/activate
